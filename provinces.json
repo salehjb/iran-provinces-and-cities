@@ -1,0 +1,2222 @@
+[
+  {
+    "name": "آذربايجان شرقی",
+    "cities": [
+      {
+        "name": "تبريز",
+        "latitude": "38.50",
+        "longitude": "46.180",
+        "slug": "tabriz"
+      },
+      {
+        "name": "مراغه",
+        "latitude": "37.2335",
+        "longitude": "46.1439",
+        "slug": "maragheh"
+      },
+      {
+        "name": "ميانه",
+        "latitude": "37.230",
+        "longitude": "47.450",
+        "slug": "miane"
+      },
+      {
+        "name": "شبستر",
+        "latitude": "38.1048",
+        "longitude": "45.429",
+        "slug": "shabestar"
+      },
+      {
+        "name": "مرند",
+        "latitude": "38.260",
+        "longitude": "45.470",
+        "slug": "marand"
+      },
+      {
+        "name": "جلفا",
+        "latitude": "38.5622",
+        "longitude": "45.3732",
+        "slug": "jolfa"
+      },
+      {
+        "name": "سراب",
+        "latitude": "37.5629",
+        "longitude": "47.3210",
+        "slug": "sarab"
+      },
+      {
+        "name": "هاديشهر",
+        "latitude": "38.510",
+        "longitude": "45.400",
+        "slug": "hadishahr"
+      },
+      {
+        "name": "بناب",
+        "latitude": "38.260",
+        "longitude": "45.550",
+        "slug": "bonab"
+      },
+      {
+        "name": "تسوج",
+        "latitude": "38.1854",
+        "longitude": "45.2136",
+        "slug": "tasuj"
+      },
+      {
+        "name": "اهر",
+        "latitude": "38.2839",
+        "longitude": "47.412",
+        "slug": "ahar"
+      },
+      {
+        "name": "هريس",
+        "latitude": "38.1445",
+        "longitude": "47.659",
+        "slug": "harris"
+      },
+      {
+        "name": "هشترود",
+        "latitude": "37.2849",
+        "longitude": "47.257",
+        "slug": "hashtrood"
+      },
+      {
+        "name": "ملكان",
+        "latitude": "37.839",
+        "longitude": "46.612",
+        "slug": "malekan"
+      },
+      {
+        "name": "بستان آباد",
+        "latitude": "37.5044",
+        "longitude": "46.4951",
+        "slug": "bostan-abad"
+      },
+      {
+        "name": "ورزقان",
+        "latitude": "38.3048",
+        "longitude": "46.3931",
+        "slug": "varzaghan"
+      },
+      {
+        "name": "اسكو",
+        "latitude": "37.5458",
+        "longitude": "46.724",
+        "slug": "osku"
+      },
+      {
+        "name": "ممقان",
+        "latitude": "37.5045",
+        "longitude": "45.5819",
+        "slug": "mamghan"
+      },
+      {
+        "name": "صوفیان",
+        "latitude": "45.98",
+        "longitude": "38.276",
+        "slug": "sofian"
+      },
+      {
+        "name": "ایلخچی",
+        "latitude": "45.98",
+        "longitude": "37.939",
+        "slug": "ilkhchi"
+      },
+      {
+        "name": "خسروشهر",
+        "latitude": "46.051",
+        "longitude": "37.951",
+        "slug": "khosrowshahr"
+      },
+      {
+        "name": "باسمنج",
+        "latitude": "46.492",
+        "longitude": "37.984",
+        "slug": "basmanj"
+      },
+      {
+        "name": "سهند",
+        "latitude": "37.5640",
+        "longitude": "46.74",
+        "slug": "sahand"
+      }
+    ],
+    "slug": "east-azarbaijan"
+  },
+  {
+    "name": "آذربايجان غربی",
+    "cities": [
+      {
+        "name": "اروميه",
+        "latitude": "37.320",
+        "longitude": "45.40",
+        "slug": "urmia"
+      },
+      {
+        "name": "نقده",
+        "latitude": "36.5719",
+        "longitude": "45.2332",
+        "slug": "naghadeh"
+      },
+      {
+        "name": "ماكو",
+        "latitude": "39.1734",
+        "longitude": "44.3040",
+        "slug": "maco"
+      },
+      {
+        "name": "تكاب",
+        "latitude": "36.2353",
+        "longitude": "47.76",
+        "slug": "takab"
+      },
+      {
+        "name": "خوي",
+        "latitude": "38.330",
+        "longitude": "44.570",
+        "slug": "khoy"
+      },
+      {
+        "name": "مهاباد",
+        "latitude": "36.450",
+        "longitude": "45.430",
+        "slug": "mahabad"
+      },
+      {
+        "name": "سر دشت",
+        "latitude": "30.200",
+        "longitude": "50.130",
+        "slug": "sardasht"
+      },
+      {
+        "name": "چالدران",
+        "latitude": "39.358",
+        "longitude": "44.2312",
+        "slug": "chaldoran"
+      },
+      {
+        "name": "بوكان",
+        "latitude": "36.3115",
+        "longitude": "46.1226",
+        "slug": "bookan"
+      },
+      {
+        "name": "مياندوآب",
+        "latitude": "36.586",
+        "longitude": "46.612",
+        "slug": "miandoab"
+      },
+      {
+        "name": "سلماس",
+        "latitude": "38.120",
+        "longitude": "44.460",
+        "slug": "salmas"
+      },
+      {
+        "name": "شاهين دژ",
+        "latitude": "36.400",
+        "longitude": "46.340",
+        "slug": "shahin-dezh"
+      },
+      {
+        "name": "پيرانشهر",
+        "latitude": "36.4146",
+        "longitude": "45.831",
+        "slug": "piranshahr"
+      },
+      {
+        "name": "اشنويه",
+        "latitude": "37.30",
+        "longitude": "45.70",
+        "slug": "oshnavieh"
+      },
+      {
+        "name": "پلدشت",
+        "latitude": "39.2026",
+        "longitude": "45.357",
+        "slug": "poldasht"
+      }
+    ],
+    "slug": "western-azerbaijan"
+  },
+  {
+    "name": "اردبيل",
+    "cities": [
+      {
+        "name": "اردبيل",
+        "latitude": "38.140",
+        "longitude": "48.170",
+        "slug": "ardebil"
+      },
+      {
+        "name": "پارس آباد",
+        "latitude": "39.3827",
+        "longitude": "47.5423",
+        "slug": "pars-abad"
+      },
+      {
+        "name": "خلخال",
+        "latitude": "37.3732",
+        "longitude": "48.3124",
+        "slug": "khalkhal"
+      },
+      {
+        "name": "مشگين شهر",
+        "latitude": "38.240",
+        "longitude": "47.390",
+        "slug": "meshgin-shahr"
+      },
+      {
+        "name": "نمين",
+        "latitude": "38.250",
+        "longitude": "48.290",
+        "slug": "namin"
+      },
+      {
+        "name": "نير",
+        "latitude": "37.159",
+        "longitude": "47.5954",
+        "slug": "nir"
+      },
+      {
+        "name": "گرمي",
+        "latitude": "39.116",
+        "longitude": "48.449",
+        "slug": "grammy"
+      }
+    ],
+    "slug": "ardebil"
+  },
+  {
+    "name": "اصفهان",
+    "cities": [
+      {
+        "name": "اصفهان",
+        "latitude": "32.390",
+        "longitude": "51.400",
+        "slug": "isfahan"
+      },
+      {
+        "name": "فلاورجان",
+        "latitude": "32.3332",
+        "longitude": "51.3037",
+        "slug": "falavarjan"
+      },
+      {
+        "name": "گلپايگان",
+        "latitude": "33.270",
+        "longitude": "50.170",
+        "slug": "golpayegan"
+      },
+      {
+        "name": "دهاقان",
+        "latitude": "31.560",
+        "longitude": "51.390",
+        "slug": "dehaqan"
+      },
+      {
+        "name": "نطنز",
+        "latitude": "33.3049",
+        "longitude": "51.5455",
+        "slug": "natanz"
+      },
+      {
+        "name": "تيران",
+        "latitude": "32.420",
+        "longitude": "51.90",
+        "slug": "tiran"
+      },
+      {
+        "name": "كاشان",
+        "latitude": "33.590",
+        "longitude": "51.350",
+        "slug": "kashan"
+      },
+      {
+        "name": "اردستان",
+        "latitude": "33.2228",
+        "longitude": "52.2157",
+        "slug": "ardestan"
+      },
+      {
+        "name": "سميرم",
+        "latitude": "31.250",
+        "longitude": "51.340",
+        "slug": "semirom"
+      },
+      {
+        "name": "درچه",
+        "latitude": "32.3647",
+        "longitude": "51.3311",
+        "slug": "dorche"
+      },
+      {
+        "name": "کوهپایه",
+        "latitude": "32.436",
+        "longitude": "52.2618",
+        "slug": "kuhpayeh"
+      },
+      {
+        "name": "مباركه",
+        "latitude": "29.540",
+        "longitude": "54.270",
+        "slug": "mobarake"
+      },
+      {
+        "name": "شهرضا",
+        "latitude": "31.5952",
+        "longitude": "51.5129",
+        "slug": "shahreza"
+      },
+      {
+        "name": "خميني شهر",
+        "latitude": "32.410",
+        "longitude": "51.320",
+        "slug": "khomeini-shahr"
+      },
+      {
+        "name": "نجف آباد",
+        "latitude": "32.380",
+        "longitude": "51.230",
+        "slug": "najaf-abad"
+      },
+      {
+        "name": "زرين شهر",
+        "latitude": "32.2346",
+        "longitude": "51.2248",
+        "slug": "zarrin-city"
+      },
+      {
+        "name": "آران و بيدگل",
+        "latitude": "34.338",
+        "longitude": "51.2847",
+        "slug": "aran-o-bidgol"
+      },
+      {
+        "name": "باغ بهادران",
+        "latitude": "51.19",
+        "longitude": "32.376",
+        "slug": "bagh-e-bahadoran"
+      },
+      {
+        "name": "خوانسار",
+        "latitude": "33.130",
+        "longitude": "50.190",
+        "slug": "khansar"
+      },
+      {
+        "name": "علويجه",
+        "latitude": "33.321",
+        "longitude": "51.51",
+        "slug": "alavijeh"
+      },
+      {
+        "name": "عسگران",
+        "latitude": "32.520",
+        "longitude": "50.510",
+        "slug": "asgaran"
+      },
+      {
+        "name": "حاجي آباد",
+        "latitude": "33.3622",
+        "longitude": "59.5957",
+        "slug": "haji-abad"
+      },
+      {
+        "name": "تودشک",
+        "latitude": "32.4339",
+        "longitude": "52.388",
+        "slug": "toodeshk"
+      },
+      {
+        "name": "ورزنه",
+        "latitude": "32.2458",
+        "longitude": "52.3813",
+        "slug": "varzaneh"
+      }
+    ],
+    "slug": "isfahan"
+  },
+  {
+    "name": "ايلام",
+    "cities": [
+      {
+        "name": "ايلام",
+        "latitude": "33.380",
+        "longitude": "46.250",
+        "slug": "ilam"
+      },
+      {
+        "name": "مهران",
+        "latitude": "33.70",
+        "longitude": "46.100",
+        "slug": "mehran"
+      },
+      {
+        "name": "دهلران",
+        "latitude": "32.410",
+        "longitude": "47.160",
+        "slug": "dehloran"
+      },
+      {
+        "name": "آبدانان",
+        "latitude": "32.5930",
+        "longitude": "47.2512",
+        "slug": "abdanan"
+      },
+      {
+        "name": "دره شهر",
+        "latitude": "33.823",
+        "longitude": "47.2233",
+        "slug": "dare-shahr"
+      },
+      {
+        "name": "ايوان",
+        "latitude": "33.502",
+        "longitude": "46.1833",
+        "slug": "ivan"
+      },
+      {
+        "name": "سرابله",
+        "latitude": "33.4611",
+        "longitude": "46.3332",
+        "slug": "sarableh"
+      }
+    ],
+    "slug": "ilam"
+  },
+  {
+    "name": "بوشهر",
+    "cities": [
+      {
+        "name": "بوشهر",
+        "latitude": "28.590",
+        "longitude": "50.500",
+        "slug": "bushehr"
+      },
+      {
+        "name": "دير",
+        "latitude": "27.510",
+        "longitude": "51.590",
+        "slug": "dir"
+      },
+      {
+        "name": "كنگان",
+        "latitude": "27.500",
+        "longitude": "52.40",
+        "slug": "kangan"
+      },
+      {
+        "name": "گناوه",
+        "latitude": "29.340",
+        "longitude": "50.310",
+        "slug": "ganaveh"
+      },
+      {
+        "name": "خورموج",
+        "latitude": "51.38",
+        "longitude": "28.655",
+        "slug": "khormoj"
+      },
+      {
+        "name": "اهرم",
+        "latitude": "28.530",
+        "longitude": "51.160",
+        "slug": "ahrom"
+      },
+      {
+        "name": "برازجان",
+        "latitude": "29.160",
+        "longitude": "51.120",
+        "slug": "barazjan"
+      },
+      {
+        "name": "جم",
+        "latitude": "27.490",
+        "longitude": "52.200",
+        "slug": "jam"
+      },
+      {
+        "name": "کاکی",
+        "latitude": "28.200",
+        "longitude": "51.310",
+        "slug": "kaki"
+      },
+      {
+        "name": "عسلویه",
+        "latitude": "27.2835",
+        "longitude": "52.3650",
+        "slug": "asaluyeh"
+      }
+    ],
+    "slug": "bushehr"
+  },
+  {
+    "name": "تهران",
+    "cities": [
+      {
+        "name": "تهران",
+        "latitude": "35.410",
+        "longitude": "51.240",
+        "slug": "tehran"
+      },
+      {
+        "name": "ورامين",
+        "latitude": "35.200",
+        "longitude": "51.380",
+        "slug": "varamin"
+      },
+      {
+        "name": "فيروزكوه",
+        "latitude": "35.450",
+        "longitude": "52.460",
+        "slug": "firouzkouh"
+      },
+      {
+        "name": "ري",
+        "latitude": "35.358",
+        "longitude": "51.269",
+        "slug": "ray"
+      },
+      {
+        "name": "دماوند",
+        "latitude": "35.430",
+        "longitude": "52.40",
+        "slug": "damavand"
+      },
+      {
+        "name": "اسلامشهر",
+        "latitude": "51.232",
+        "longitude": "35.552",
+        "slug": "islamshahr"
+      },
+      {
+        "name": "رودهن",
+        "latitude": "35.4412",
+        "longitude": "51.5441",
+        "slug": "rudehen"
+      },
+      {
+        "name": "لواسان",
+        "latitude": "51.783",
+        "longitude": "35.825",
+        "slug": "lavasan"
+      },
+      {
+        "name": "بومهن",
+        "latitude": "35.4347",
+        "longitude": "51.5143",
+        "slug": "bumehen"
+      },
+      {
+        "name": "تجريش",
+        "latitude": "35.4816",
+        "longitude": "51.2532",
+        "slug": "tajrish"
+      },
+      {
+        "name": "فشم",
+        "latitude": "51.526",
+        "longitude": "35.931",
+        "slug": "fasham"
+      },
+      {
+        "name": "كهريزك",
+        "latitude": "35.3103",
+        "longitude": "51.2135",
+        "slug": "kahrizak"
+      },
+      {
+        "name": "پاكدشت",
+        "latitude": "35.2854",
+        "longitude": "51.4049",
+        "slug": "pakdasht"
+      },
+      {
+        "name": "چهاردانگه",
+        "latitude": "51.309",
+        "longitude": "35.604",
+        "slug": "chahardangeh"
+      },
+      {
+        "name": "شريف آباد",
+        "latitude": "35.2539",
+        "longitude": "51.4707",
+        "slug": "sharif-abad"
+      },
+      {
+        "name": "قرچك",
+        "latitude": "35.2610",
+        "longitude": "51.3420",
+        "slug": "qarchak"
+      },
+      {
+        "name": "باقرشهر",
+        "latitude": "35.3157",
+        "longitude": "51.2409",
+        "slug": "baghershahr"
+      },
+      {
+        "name": "شهريار",
+        "latitude": "35.3927",
+        "longitude": "51.335",
+        "slug": "shahriar"
+      },
+      {
+        "name": "رباط كريم",
+        "latitude": "35.2843",
+        "longitude": "51.449",
+        "slug": "robat-karim"
+      },
+      {
+        "name": "قدس",
+        "latitude": "35.4317",
+        "longitude": "51.632",
+        "slug": "ghods"
+      },
+      {
+        "name": "ملارد",
+        "latitude": "35.3927",
+        "longitude": "50.5835",
+        "slug": "malard"
+      }
+    ],
+    "slug": "tehran"
+  },
+  {
+    "name": "چهارمحال بختیاری",
+    "cities": [
+      {
+        "name": "شهركرد",
+        "latitude": "32.190",
+        "longitude": "50.510",
+        "slug": "shahrekord"
+      },
+      {
+        "name": "فارسان",
+        "latitude": "32.1527",
+        "longitude": "50.3341",
+        "slug": "farsan"
+      },
+      {
+        "name": "بروجن",
+        "latitude": "31.580",
+        "longitude": "51.170",
+        "slug": "borujen"
+      },
+      {
+        "name": "چلگرد",
+        "latitude": "50.138",
+        "longitude": "32.462",
+        "slug": "chelgerd"
+      },
+      {
+        "name": "اردل",
+        "latitude": "31.5958",
+        "longitude": "50.3935",
+        "slug": "ardal"
+      },
+      {
+        "name": "لردگان",
+        "latitude": "31.310",
+        "longitude": "50.500",
+        "slug": "lordegan"
+      }
+    ],
+    "slug": "chahar-mahal-bakhtiari"
+  },
+  {
+    "name": "خراسان جنوبی",
+    "cities": [
+      {
+        "name": "قائن",
+        "latitude": "33.430",
+        "longitude": "59.60",
+        "slug": "ghaen"
+      },
+      {
+        "name": "فردوس",
+        "latitude": "34.00",
+        "longitude": "58.90",
+        "slug": "ferdows"
+      },
+      {
+        "name": "بيرجند",
+        "latitude": "32.5216",
+        "longitude": "59.1315",
+        "slug": "birjand"
+      },
+      {
+        "name": "نهبندان",
+        "latitude": "31.320",
+        "longitude": "60.20",
+        "slug": "nahbandan"
+      },
+      {
+        "name": "سربيشه",
+        "latitude": "32.3432",
+        "longitude": "59.4755",
+        "slug": "sarbishe"
+      }
+    ],
+    "slug": "southern-khorasan"
+  },
+  {
+    "name": "خراسان رضوی",
+    "cities": [
+      {
+        "name": "مشهد",
+        "latitude": "36.170",
+        "longitude": "59.350",
+        "slug": "mashhad"
+      },
+      {
+        "name": "نيشابور",
+        "latitude": "36.130",
+        "longitude": "58.490",
+        "slug": "neyshabur"
+      },
+      {
+        "name": "سبزوار",
+        "latitude": "36.130",
+        "longitude": "57.400",
+        "slug": "sabzevar"
+      },
+      {
+        "name": "كاشمر",
+        "latitude": "35.144",
+        "longitude": "58.2738",
+        "slug": "kashmar"
+      },
+      {
+        "name": "گناباد",
+        "latitude": "34.2141",
+        "longitude": "58.4157",
+        "slug": "gonabad"
+      },
+      {
+        "name": "طبس",
+        "latitude": "33.370",
+        "longitude": "56.540",
+        "slug": "tabas"
+      },
+      {
+        "name": "تربت حيدريه",
+        "latitude": "35.1627",
+        "longitude": "59.139",
+        "slug": "torbat-heydariyeh"
+      },
+      {
+        "name": "خواف",
+        "latitude": "34.320",
+        "longitude": "60.50",
+        "slug": "khaf"
+      },
+      {
+        "name": "تربت جام",
+        "latitude": "35.160",
+        "longitude": "60.360",
+        "slug": "torbat-jam"
+      },
+      {
+        "name": "تايباد",
+        "latitude": "34.440",
+        "longitude": "60.470",
+        "slug": "taybad"
+      },
+      {
+        "name": "قوچان",
+        "latitude": "37.40",
+        "longitude": "58.320",
+        "slug": "quchan"
+      },
+      {
+        "name": "سرخس",
+        "latitude": "36.320",
+        "longitude": "61.100",
+        "slug": "sarakhs"
+      },
+      {
+        "name": "فريمان",
+        "latitude": "35.460",
+        "longitude": "59.490",
+        "slug": "fariman"
+      },
+      {
+        "name": "چناران",
+        "latitude": "59.121",
+        "longitude": "36.642",
+        "slug": "chenaran"
+      },
+      {
+        "name": "درگز",
+        "latitude": "37.2640",
+        "longitude": "59.628",
+        "slug": "dargaz"
+      },
+      {
+        "name": "طرقبه",
+        "latitude": "36.1837",
+        "longitude": "59.2225",
+        "slug": "torghabeh"
+      }
+    ],
+    "slug": "khorasan-razavi"
+  },
+  {
+    "name": "خراسان شمالی",
+    "cities": [
+      {
+        "name": "بجنورد",
+        "latitude": "37.2835",
+        "longitude": "57.1954",
+        "slug": "bojnourd"
+      },
+      {
+        "name": "اسفراين",
+        "latitude": "37.436",
+        "longitude": "57.3035",
+        "slug": "esfarayen"
+      },
+      {
+        "name": "جاجرم",
+        "latitude": "36.573",
+        "longitude": "56.2244",
+        "slug": "jajarm"
+      },
+      {
+        "name": "شيروان",
+        "latitude": "33.340",
+        "longitude": "46.520",
+        "slug": "shirvan"
+      },
+      {
+        "name": "آشخانه",
+        "latitude": "37.3352",
+        "longitude": "56.556",
+        "slug": "ashkhaneh"
+      }
+    ],
+    "slug": "north-khorasan"
+  },
+  {
+    "name": "خوزستان",
+    "cities": [
+      {
+        "name": "اهواز",
+        "latitude": "31.190",
+        "longitude": "48.410",
+        "slug": "ahwaz"
+      },
+      {
+        "name": "ايرانشهر",
+        "latitude": "27.150",
+        "longitude": "60.410",
+        "slug": "iranshahr"
+      },
+      {
+        "name": "شوش",
+        "latitude": "32.120",
+        "longitude": "48.150",
+        "slug": "shush"
+      },
+      {
+        "name": "آبادان",
+        "latitude": "30.2024",
+        "longitude": "48.1814",
+        "slug": "abadan"
+      },
+      {
+        "name": "خرمشهر",
+        "latitude": "30.2539",
+        "longitude": "48.118",
+        "slug": "khorramshahr"
+      },
+      {
+        "name": "مسجد سليمان",
+        "latitude": "31.590",
+        "longitude": "49.180",
+        "slug": "masjed-soleiman"
+      },
+      {
+        "name": "ايذه",
+        "latitude": "31.500",
+        "longitude": "49.520",
+        "slug": "izeh"
+      },
+      {
+        "name": "شوشتر",
+        "latitude": "32.30",
+        "longitude": "48.510",
+        "slug": "shushtar"
+      },
+      {
+        "name": "انديمشك",
+        "latitude": "32.270",
+        "longitude": "48.200",
+        "slug": "andimeshk"
+      },
+      {
+        "name": "سوسنگرد",
+        "latitude": "31.400",
+        "longitude": "48.60",
+        "slug": "susangerd"
+      },
+      {
+        "name": "هويزه",
+        "latitude": "31.2740",
+        "longitude": "48.428",
+        "slug": "hoveyzeh"
+      },
+      {
+        "name": "دزفول",
+        "latitude": "32.2255",
+        "longitude": "48.2411",
+        "slug": "dezful"
+      },
+      {
+        "name": "شادگان",
+        "latitude": "30.390",
+        "longitude": "48.400",
+        "slug": "shadegan"
+      },
+      {
+        "name": "بندر ماهشهر",
+        "latitude": "30.340",
+        "longitude": "49.100",
+        "slug": "bandar-mahshahr"
+      },
+      {
+        "name": "بندر امام خميني",
+        "latitude": "30.250",
+        "longitude": "49.20",
+        "slug": "bandar-imam-khomeini"
+      },
+      {
+        "name": "بهبهان",
+        "latitude": "30.360",
+        "longitude": "50.150",
+        "slug": "behbahan"
+      },
+      {
+        "name": "رامهرمز",
+        "latitude": "31.170",
+        "longitude": "49.360",
+        "slug": "ramhormoz"
+      },
+      {
+        "name": "باغ ملك",
+        "latitude": "31.310",
+        "longitude": "49.530",
+        "slug": "bagh-malek"
+      },
+      {
+        "name": "هنديجان",
+        "latitude": "30.140",
+        "longitude": "49.430",
+        "slug": "hendijan"
+      },
+      {
+        "name": "لالي",
+        "latitude": "32.1947",
+        "longitude": "49.538",
+        "slug": "lali"
+      },
+      {
+        "name": "رامشیر",
+        "latitude": "30.5335",
+        "longitude": "49.2425",
+        "slug": "ramshir"
+      },
+      {
+        "name": "حمیدیه",
+        "latitude": "31.290",
+        "longitude": "48.260",
+        "slug": "hamidiyeh"
+      },
+      {
+        "name": "ملاثانی",
+        "latitude": "31.356",
+        "longitude": "48.5310",
+        "slug": "mollasani"
+      },
+      {
+        "name": "شادگان",
+        "latitude": "30.390",
+        "longitude": "48.400",
+        "slug": "shadegan"
+      }
+    ],
+    "slug": "khuzestan"
+  },
+  {
+    "name": "زنجان",
+    "cities": [
+      {
+        "name": "زنجان",
+        "latitude": "36.400",
+        "longitude": "48.290",
+        "slug": "zanjan"
+      },
+      {
+        "name": "ابهر",
+        "latitude": "36.80",
+        "longitude": "49.130",
+        "slug": "abhar"
+      },
+      {
+        "name": "خدابنده",
+        "latitude": "36.00",
+        "longitude": "48.30",
+        "slug": "khodabandeh"
+      },
+      {
+        "name": "ماهنشان",
+        "latitude": "36.4440",
+        "longitude": "47.4022",
+        "slug": "mahneshan"
+      },
+      {
+        "name": "خرمدره",
+        "latitude": "36.1240",
+        "longitude": "49.1147",
+        "slug": "khorramdareh"
+      },
+      {
+        "name": "آب بر",
+        "latitude": "36.550",
+        "longitude": "48.580",
+        "slug": "abbar"
+      },
+      {
+        "name": "قيدار",
+        "latitude": "36.717",
+        "longitude": "48.3528",
+        "slug": "qeydar"
+      }
+    ],
+    "slug": "zanjan"
+  },
+  {
+    "name": "سمنان",
+    "cities": [
+      {
+        "name": "سمنان",
+        "latitude": "35.340",
+        "longitude": "53.230",
+        "slug": "semnan"
+      },
+      {
+        "name": "شاهرود",
+        "latitude": "36.250",
+        "longitude": "55.00",
+        "slug": "shahroud"
+      },
+      {
+        "name": "گرمسار",
+        "latitude": "35.150",
+        "longitude": "52.200",
+        "slug": "garmsar"
+      },
+      {
+        "name": "ايوانكي",
+        "latitude": "35.210",
+        "longitude": "52.40",
+        "slug": "ivanki"
+      },
+      {
+        "name": "دامغان",
+        "latitude": "36.90",
+        "longitude": "54.220",
+        "slug": "damghan"
+      },
+      {
+        "name": "بسطام",
+        "latitude": "36.293",
+        "longitude": "54.5956",
+        "slug": "bastam"
+      }
+    ],
+    "slug": "semnan"
+  },
+  {
+    "name": "سيستان و بلوچستان",
+    "cities": [
+      {
+        "name": "زاهدان",
+        "latitude": "29.320",
+        "longitude": "60.540",
+        "slug": "zahedan"
+      },
+      {
+        "name": "چابهار",
+        "latitude": "60.634",
+        "longitude": "25.296",
+        "slug": "chabahar"
+      },
+      {
+        "name": "خاش",
+        "latitude": "28.130",
+        "longitude": "61.130",
+        "slug": "khash"
+      },
+      {
+        "name": "سراوان",
+        "latitude": "27.2214",
+        "longitude": "62.203",
+        "slug": "saravan"
+      },
+      {
+        "name": "زابل",
+        "latitude": "31.00",
+        "longitude": "61.320",
+        "slug": "zabul"
+      },
+      {
+        "name": "سرباز",
+        "latitude": "26.400",
+        "longitude": "61.200",
+        "slug": "sarbaz"
+      },
+      {
+        "name": "ايرانشهر",
+        "latitude": "27.150",
+        "longitude": "60.410",
+        "slug": "iranshahr"
+      },
+      {
+        "name": "ميرجاوه",
+        "latitude": "29.10",
+        "longitude": "61.300",
+        "slug": "mirjaveh"
+      }
+    ],
+    "slug": "sistan-o-baluchistan"
+  },
+  {
+    "name": "فارس",
+    "cities": [
+      {
+        "name": "شيراز",
+        "latitude": "29.360",
+        "longitude": "52.310",
+        "slug": "shiraz"
+      },
+      {
+        "name": "اقليد",
+        "latitude": "30.530",
+        "longitude": "52.410",
+        "slug": "eqlid"
+      },
+      {
+        "name": "داراب",
+        "latitude": "28.450",
+        "longitude": "54.330",
+        "slug": "darab"
+      },
+      {
+        "name": "فسا",
+        "latitude": "28.550",
+        "longitude": "53.390",
+        "slug": "fasa"
+      },
+      {
+        "name": "مرودشت",
+        "latitude": "52.802",
+        "longitude": "29.874",
+        "slug": "marvdasht"
+      },
+      {
+        "name": "آباده",
+        "latitude": "31.60",
+        "longitude": "52.400",
+        "slug": "abadeh"
+      },
+      {
+        "name": "كازرون",
+        "latitude": "29.350",
+        "longitude": "51.400",
+        "slug": "kazeroon"
+      },
+      {
+        "name": "سپيدان",
+        "latitude": "30.1432",
+        "longitude": "51.5938",
+        "slug": "sepidan"
+      },
+      {
+        "name": "لار",
+        "latitude": "27.420",
+        "longitude": "54.190",
+        "slug": "lar"
+      },
+      {
+        "name": "فيروز آباد",
+        "latitude": "26.170",
+        "longitude": "61.250",
+        "slug": "firouz-abad"
+      },
+      {
+        "name": "جهرم",
+        "latitude": "28.290",
+        "longitude": "53.320",
+        "slug": "jahrom"
+      },
+      {
+        "name": "استهبان",
+        "latitude": "29.80",
+        "longitude": "54.20",
+        "slug": "estahban"
+      },
+      {
+        "name": "لامرد",
+        "latitude": "27.300",
+        "longitude": "53.200",
+        "slug": "lamerd"
+      },
+      {
+        "name": "مهر",
+        "latitude": "27.330",
+        "longitude": "52.530",
+        "slug": "mehr"
+      },
+      {
+        "name": "حاجي آباد",
+        "latitude": "33.3622",
+        "longitude": "59.5957",
+        "slug": "haji-abad"
+      },
+      {
+        "name": "اردكان",
+        "latitude": "32.200",
+        "longitude": "53.590",
+        "slug": "ardakan"
+      },
+      {
+        "name": "صفاشهر",
+        "latitude": "30.3446",
+        "longitude": "53.84",
+        "slug": "safashahr"
+      },
+      {
+        "name": "ارسنجان",
+        "latitude": "29.550",
+        "longitude": "53.1743",
+        "slug": "arsanjan"
+      },
+      {
+        "name": "سوريان",
+        "latitude": "30.2749",
+        "longitude": "53.2648",
+        "slug": "soorian"
+      },
+      {
+        "name": "فراشبند",
+        "latitude": "28.530",
+        "longitude": "52.70",
+        "slug": "farashband"
+      },
+      {
+        "name": "سروستان",
+        "latitude": "29.160",
+        "longitude": "53.130",
+        "slug": "sarvestan"
+      },
+      {
+        "name": "زرقان",
+        "latitude": "29.4628",
+        "longitude": "52.4329",
+        "slug": "zarqan"
+      },
+      {
+        "name": "کوار",
+        "latitude": "29.1217",
+        "longitude": "52.4124",
+        "slug": "kavar"
+      },
+      {
+        "name": "بوانات",
+        "latitude": "30.2915",
+        "longitude": "53.3534",
+        "slug": "bavanat"
+      },
+      {
+        "name": "خرامه",
+        "latitude": "53.321",
+        "longitude": "29.501",
+        "slug": "kharameh"
+      },
+      {
+        "name": "خنج",
+        "latitude": "27.530",
+        "longitude": "53.260",
+        "slug": "khonj"
+      }
+    ],
+    "slug": "fars"
+  },
+  {
+    "name": "قزوين",
+    "cities": [
+      {
+        "name": "قزوين",
+        "latitude": "36.167",
+        "longitude": "50.010",
+        "slug": "qazvin"
+      },
+      {
+        "name": "تاكستان",
+        "latitude": "36.20",
+        "longitude": "49.400",
+        "slug": "tekestan"
+      },
+      {
+        "name": "آبيك",
+        "latitude": "36.30",
+        "longitude": "50.310",
+        "slug": "abic"
+      },
+      {
+        "name": "بوئين زهرا",
+        "latitude": "35.466",
+        "longitude": "50.331",
+        "slug": "bueenzahra"
+      }
+    ],
+    "slug": "qazvin"
+  },
+  {
+    "name": "قم",
+    "cities": [
+      {
+        "name": "قم",
+        "latitude": "34.380",
+        "longitude": "50.530",
+        "slug": "qom"
+      }
+    ],
+    "slug": "qom"
+  },
+  {
+    "name": "کرج",
+    "cities": [
+      {
+        "name": "طالقان",
+        "latitude": "36.100",
+        "longitude": "50.445",
+        "slug": "taleghan"
+      },
+      {
+        "name": "نظرآباد",
+        "latitude": "50.608",
+        "longitude": "35.956",
+        "slug": "nazar-abad"
+      },
+      {
+        "name": "اشتهارد",
+        "latitude": "35.430",
+        "longitude": "50.220",
+        "slug": "eshtehard"
+      },
+      {
+        "name": "هشتگرد",
+        "latitude": "35.5742",
+        "longitude": "50.4048",
+        "slug": "hashtgerd"
+      },
+      {
+        "name": "كرج",
+        "latitude": "35.490",
+        "longitude": "50.580",
+        "slug": "karaj"
+      },
+      {
+        "name": "ماهدشت",
+        "latitude": "50.813",
+        "longitude": "35.727",
+        "slug": "mahdasht"
+      }
+    ],
+    "slug": "karaj"
+  },
+  {
+    "name": "كردستان",
+    "cities": [
+      {
+        "name": "سنندج",
+        "latitude": "35.180",
+        "longitude": "47.10",
+        "slug": "sanandaj"
+      },
+      {
+        "name": "بانه",
+        "latitude": "35.590",
+        "longitude": "45.540",
+        "slug": "baneh"
+      },
+      {
+        "name": "بيجار",
+        "latitude": "35.520",
+        "longitude": "47.390",
+        "slug": "bijar"
+      },
+      {
+        "name": "سقز",
+        "latitude": "36.140",
+        "longitude": "46.150",
+        "slug": "saqqez"
+      },
+      {
+        "name": "قروه",
+        "latitude": "35.90",
+        "longitude": "47.480",
+        "slug": "qorveh"
+      },
+      {
+        "name": "مريوان",
+        "latitude": "35.310",
+        "longitude": "46.100",
+        "slug": "marivan"
+      },
+      {
+        "name": "صلوات آباد",
+        "latitude": "35.160",
+        "longitude": "47.70",
+        "slug": "salavat-abad"
+      },
+      {
+        "name": "حسن آباد",
+        "latitude": "35.222",
+        "longitude": "51.1412",
+        "slug": "hassan-abad"
+      }
+    ],
+    "slug": "kurdistan"
+  },
+  {
+    "name": "كرمان",
+    "cities": [
+      {
+        "name": "كرمان",
+        "latitude": "30.160",
+        "longitude": "57.40",
+        "slug": "kerman"
+      },
+      {
+        "name": "راور",
+        "latitude": "31.150",
+        "longitude": "56.510",
+        "slug": "ravar"
+      },
+      {
+        "name": "انار",
+        "latitude": "30.550",
+        "longitude": "55.150",
+        "slug": "anar"
+      },
+      {
+        "name": "کوهبنان",
+        "latitude": "31.250",
+        "longitude": "56.170",
+        "slug": "kuhbanan"
+      },
+      {
+        "name": "رفسنجان",
+        "latitude": "30.250",
+        "longitude": "56.00",
+        "slug": "rafsanjan"
+      },
+      {
+        "name": "بافت",
+        "latitude": "29.120",
+        "longitude": "56.360",
+        "slug": "baft"
+      },
+      {
+        "name": "سيرجان",
+        "latitude": "29.270",
+        "longitude": "55.400",
+        "slug": "sirjan"
+      },
+      {
+        "name": "كهنوج",
+        "latitude": "27.5653",
+        "longitude": "57.4155",
+        "slug": "kahnuj"
+      },
+      {
+        "name": "زرند",
+        "latitude": "30.500",
+        "longitude": "56.350",
+        "slug": "zarand"
+      },
+      {
+        "name": "بم",
+        "latitude": "29.70",
+        "longitude": "58.200",
+        "slug": "bam"
+      },
+      {
+        "name": "جيرفت",
+        "latitude": "28.400",
+        "longitude": "57.440",
+        "slug": "jiroft"
+      },
+      {
+        "name": "بردسير",
+        "latitude": "29.5541",
+        "longitude": "56.3427",
+        "slug": "bardsir"
+      }
+    ],
+    "slug": "kerman"
+  },
+  {
+    "name": "كرمانشاه",
+    "cities": [
+      {
+        "name": "كرمانشاه",
+        "latitude": "34.180",
+        "longitude": "47.30",
+        "slug": "kermanshah"
+      },
+      {
+        "name": "اسلام آباد غرب",
+        "latitude": "46.528",
+        "longitude": "34.111",
+        "slug": "islamabad-gharb"
+      },
+      {
+        "name": "كنگاور",
+        "latitude": "34.290",
+        "longitude": "47.550",
+        "slug": "kangavar"
+      },
+      {
+        "name": "سنقر",
+        "latitude": "34.470",
+        "longitude": "47.360",
+        "slug": "sonqor"
+      },
+      {
+        "name": "قصر شيرين",
+        "latitude": "34.310",
+        "longitude": "45.350",
+        "slug": "qasreshirin"
+      },
+      {
+        "name": "هرسين",
+        "latitude": "34.160",
+        "longitude": "47.350",
+        "slug": "harsin"
+      },
+      {
+        "name": "صحنه",
+        "latitude": "34.290",
+        "longitude": "47.410",
+        "slug": "sahneh"
+      },
+      {
+        "name": "پاوه",
+        "latitude": "35.30",
+        "longitude": "46.220",
+        "slug": "paveh"
+      },
+      {
+        "name": "جوانرود",
+        "latitude": "34.4823",
+        "longitude": "46.3023",
+        "slug": "javanrood"
+      }
+    ],
+    "slug": "kermanshah"
+  },
+  {
+    "name": "كهكيلويه و بويراحمد",
+    "cities": [
+      {
+        "name": "ياسوج",
+        "latitude": "30.390",
+        "longitude": "51.350",
+        "slug": "yasuj"
+      },
+      {
+        "name": "گچساران",
+        "latitude": "30.2128",
+        "longitude": "50.4757",
+        "slug": "gachsaran"
+      },
+      {
+        "name": "دوگنبدان",
+        "latitude": "50.792",
+        "longitude": "30.357",
+        "slug": "dogonbadan"
+      },
+      {
+        "name": "سي سخت",
+        "latitude": "30.520",
+        "longitude": "51.270",
+        "slug": "sisakht"
+      },
+      {
+        "name": "دهدشت",
+        "latitude": "30.4741",
+        "longitude": "50.3352",
+        "slug": "dehdasht"
+      }
+    ],
+    "slug": "kahakiluyeh-o-boyer-ahmad"
+  },
+  {
+    "name": "گلستان",
+    "cities": [
+      {
+        "name": "گرگان",
+        "latitude": "36.500",
+        "longitude": "54.250",
+        "slug": "gorgan"
+      },
+      {
+        "name": "آق قلا",
+        "latitude": "37.10",
+        "longitude": "54.2757",
+        "slug": "aqqala"
+      },
+      {
+        "name": "گنبد كاووس",
+        "latitude": "37.150",
+        "longitude": "55.100",
+        "slug": "gonbad-e-kavus"
+      },
+      {
+        "name": "علي آباد كتول",
+        "latitude": "36.5429",
+        "longitude": "54.5148",
+        "slug": "aliabad-katol"
+      },
+      {
+        "name": "كردكوی",
+        "latitude": "36.4748",
+        "longitude": "54.655",
+        "slug": "kordkoy"
+      },
+      {
+        "name": "كلاله",
+        "latitude": "37.2251",
+        "longitude": "55.2930",
+        "slug": "kalaleh"
+      },
+      {
+        "name": "آزاد شهر",
+        "latitude": "37.50",
+        "longitude": "55.100",
+        "slug": "azadshahr"
+      },
+      {
+        "name": "راميان",
+        "latitude": "37.024",
+        "longitude": "55.835",
+        "slug": "ramiyan"
+      }
+    ],
+    "slug": "golestan"
+  },
+  {
+    "name": "گيلان",
+    "cities": [
+      {
+        "name": "رشت",
+        "latitude": "37.160",
+        "longitude": "49.350",
+        "slug": "rasht"
+      },
+      {
+        "name": "منجيل",
+        "latitude": "36.440",
+        "longitude": "49.250",
+        "slug": "manjil"
+      },
+      {
+        "name": "لنگرود",
+        "latitude": "37.120",
+        "longitude": "50.90",
+        "slug": "langrood"
+      },
+      {
+        "name": "تالش",
+        "latitude": "37.484",
+        "longitude": "48.5428",
+        "slug": "talesh"
+      },
+      {
+        "name": "آستارا",
+        "latitude": "38.2518",
+        "longitude": "48.5221",
+        "slug": "astara"
+      },
+      {
+        "name": "ماسوله",
+        "latitude": "48.99",
+        "longitude": "37.156",
+        "slug": "masuleh"
+      },
+      {
+        "name": "رودبار",
+        "latitude": "36.4920",
+        "longitude": "49.2533",
+        "slug": "rudbar"
+      },
+      {
+        "name": "فومن",
+        "latitude": "37.150",
+        "longitude": "49.190",
+        "slug": "fuman"
+      },
+      {
+        "name": "صومعه سرا",
+        "latitude": "37.180",
+        "longitude": "49.180",
+        "slug": "some-sara"
+      },
+      {
+        "name": "هشتپر",
+        "latitude": "48.907",
+        "longitude": "37.797",
+        "slug": "hashtpar"
+      },
+      {
+        "name": "ماسال",
+        "latitude": "37.2249",
+        "longitude": "49.633",
+        "slug": "masal"
+      },
+      {
+        "name": "شفت",
+        "latitude": "37.90",
+        "longitude": "49.240",
+        "slug": "shaft"
+      },
+      {
+        "name": "املش",
+        "latitude": "37.520",
+        "longitude": "50.1114",
+        "slug": "amlash"
+      },
+      {
+        "name": "لاهیجان",
+        "latitude": "37.130",
+        "longitude": "50.00",
+        "slug": "lahijan"
+      }
+    ],
+    "slug": "gilan"
+  },
+  {
+    "name": "لرستان",
+    "cities": [
+      {
+        "name": "خرم آباد",
+        "latitude": "33.290",
+        "longitude": "48.210",
+        "slug": "khorramabad"
+      },
+      {
+        "name": "ماهشهر",
+        "latitude": "49.18",
+        "longitude": "30.546",
+        "slug": "mahshahr"
+      },
+      {
+        "name": "دزفول",
+        "latitude": "32.2255",
+        "longitude": "48.2411",
+        "slug": "dezful"
+      },
+      {
+        "name": "بروجرد",
+        "latitude": "33.550",
+        "longitude": "48.480",
+        "slug": "borujerd"
+      },
+      {
+        "name": "دورود",
+        "latitude": "33.2940",
+        "longitude": "49.425",
+        "slug": "dorud"
+      },
+      {
+        "name": "اليگودرز",
+        "latitude": "33.230",
+        "longitude": "49.420",
+        "slug": "aligodarz"
+      },
+      {
+        "name": "ازنا",
+        "latitude": "33.2713",
+        "longitude": "49.279",
+        "slug": "azna"
+      },
+      {
+        "name": "نور آباد",
+        "latitude": "47.972",
+        "longitude": "34.074",
+        "slug": "noor-abad"
+      },
+      {
+        "name": "كوهدشت",
+        "latitude": "33.320",
+        "longitude": "47.360",
+        "slug": "kuhdasht"
+      },
+      {
+        "name": "الشتر",
+        "latitude": "33.522",
+        "longitude": "48.1546",
+        "slug": "aleshtar"
+      }
+    ],
+    "slug": "lorestan"
+  },
+  {
+    "name": "مازندران",
+    "cities": [
+      {
+        "name": "ساري",
+        "latitude": "36.330",
+        "longitude": "53.30",
+        "slug": "sari"
+      },
+      {
+        "name": "آمل",
+        "latitude": "36.280",
+        "longitude": "52.220",
+        "slug": "amol"
+      },
+      {
+        "name": "بابل",
+        "latitude": "36.330",
+        "longitude": "52.410",
+        "slug": "babol"
+      },
+      {
+        "name": "بابلسر",
+        "latitude": "36.420",
+        "longitude": "52.390",
+        "slug": "babolsar"
+      },
+      {
+        "name": "بهشهر",
+        "latitude": "36.420",
+        "longitude": "53.330",
+        "slug": "behshahr"
+      },
+      {
+        "name": "تنكابن",
+        "latitude": "36.490",
+        "longitude": "50.530",
+        "slug": "tonekabon"
+      },
+      {
+        "name": "جويبار",
+        "latitude": "36.380",
+        "longitude": "52.550",
+        "slug": "joybar"
+      },
+      {
+        "name": "چالوس",
+        "latitude": "36.390",
+        "longitude": "51.250",
+        "slug": "chalus"
+      },
+      {
+        "name": "رامسر",
+        "latitude": "37.5426",
+        "longitude": "50.3944",
+        "slug": "ramsar"
+      },
+      {
+        "name": "قائم شهر",
+        "latitude": "52.859",
+        "longitude": "36.466",
+        "slug": "qaemshahr"
+      },
+      {
+        "name": "نكا",
+        "latitude": "36.390",
+        "longitude": "53.180",
+        "slug": "neka"
+      },
+      {
+        "name": "نور",
+        "latitude": "36.3410",
+        "longitude": "52.049",
+        "slug": "noor"
+      },
+      {
+        "name": "بلده",
+        "latitude": "36.120",
+        "longitude": "51.490",
+        "slug": "baladeh"
+      },
+      {
+        "name": "نوشهر",
+        "latitude": "36.390",
+        "longitude": "51.300",
+        "slug": "noshahr"
+      },
+      {
+        "name": "محمود آباد",
+        "latitude": "52.278",
+        "longitude": "36.634",
+        "slug": "mahmoud-abad"
+      }
+    ],
+    "slug": "mazandaran"
+  },
+  {
+    "name": "مرکزی",
+    "cities": [
+      {
+        "name": "اراك",
+        "latitude": "34.50",
+        "longitude": "49.410",
+        "slug": "arak"
+      },
+      {
+        "name": "آشتيان",
+        "latitude": "34.320",
+        "longitude": "50.00",
+        "slug": "ashtian"
+      },
+      {
+        "name": "تفرش",
+        "latitude": "34.4139",
+        "longitude": "50.055",
+        "slug": "tafresh"
+      },
+      {
+        "name": "خمين",
+        "latitude": "33.380",
+        "longitude": "50.40",
+        "slug": "khomein"
+      },
+      {
+        "name": "دليجان",
+        "latitude": "33.590",
+        "longitude": "50.410",
+        "slug": "delijan"
+      },
+      {
+        "name": "ساوه",
+        "latitude": "35.117",
+        "longitude": "50.2124",
+        "slug": "saveh"
+      },
+      {
+        "name": "محلات",
+        "latitude": "33.540",
+        "longitude": "50.280",
+        "slug": "mahalat"
+      },
+      {
+        "name": "شازند",
+        "latitude": "33.5616",
+        "longitude": "49.250",
+        "slug": "shazand"
+      }
+    ],
+    "slug": "markazi"
+  },
+  {
+    "name": "هرمزگان",
+    "cities": [
+      {
+        "name": "بندرعباس",
+        "latitude": "56.266",
+        "longitude": "27.18",
+        "slug": "bandar-abbas"
+      },
+      {
+        "name": "قشم",
+        "latitude": "26.580",
+        "longitude": "56.170",
+        "slug": "qeshm"
+      },
+      {
+        "name": "كيش",
+        "latitude": "26.320",
+        "longitude": "53.580",
+        "slug": "kish"
+      },
+      {
+        "name": "بندر لنگه",
+        "latitude": "26.340",
+        "longitude": "54.520",
+        "slug": "bandar-lengeh"
+      },
+      {
+        "name": "بستك",
+        "latitude": "27.160",
+        "longitude": "54.260",
+        "slug": "bastak"
+      },
+      {
+        "name": "حاجي آباد",
+        "latitude": "33.3622",
+        "longitude": "59.5957",
+        "slug": "haji-abad"
+      },
+      {
+        "name": "دهبارز",
+        "latitude": "27.2540",
+        "longitude": "57.126",
+        "slug": "dehbarez"
+      },
+      {
+        "name": "ميناب",
+        "latitude": "27.70",
+        "longitude": "57.60",
+        "slug": "minab"
+      },
+      {
+        "name": "بندر جاسك",
+        "latitude": "25.3839",
+        "longitude": "57.4624",
+        "slug": "bandar-jask"
+      },
+      {
+        "name": "بندر خمیر",
+        "latitude": "26.570",
+        "longitude": "55.350",
+        "slug": "bandar-khamir"
+      },
+      {
+        "name": "قشم",
+        "latitude": "26.580",
+        "longitude": "56.170",
+        "slug": "qeshm"
+      }
+    ],
+    "slug": "hormozgan"
+  },
+  {
+    "name": "همدان",
+    "cities": [
+      {
+        "name": "همدان",
+        "latitude": "34.470",
+        "longitude": "48.300",
+        "slug": "hamedan"
+      },
+      {
+        "name": "ملاير",
+        "latitude": "34.180",
+        "longitude": "48.490",
+        "slug": "malayer"
+      },
+      {
+        "name": "نهاوند",
+        "latitude": "34.130",
+        "longitude": "48.210",
+        "slug": "nahavand"
+      },
+      {
+        "name": "رزن",
+        "latitude": "49.033",
+        "longitude": "35.39",
+        "slug": "razan"
+      },
+      {
+        "name": "اسدآباد",
+        "latitude": "48.123",
+        "longitude": "34.783",
+        "slug": "asadabad"
+      },
+      {
+        "name": "بهار",
+        "latitude": "34.5425",
+        "longitude": "48.2622",
+        "slug": "bahar"
+      }
+    ],
+    "slug": "hamedan"
+  },
+  {
+    "name": "يزد",
+    "cities": [
+      {
+        "name": "يزد",
+        "latitude": "31.530",
+        "longitude": "54.210",
+        "slug": "yazd"
+      },
+      {
+        "name": "تفت",
+        "latitude": "31.450",
+        "longitude": "54.120",
+        "slug": "taft"
+      },
+      {
+        "name": "اردكان",
+        "latitude": "32.200",
+        "longitude": "53.590",
+        "slug": "ardakan"
+      },
+      {
+        "name": "ابركوه",
+        "latitude": "31.741",
+        "longitude": "53.1652",
+        "slug": "abarkuh"
+      },
+      {
+        "name": "ميبد",
+        "latitude": "32.140",
+        "longitude": "54.10",
+        "slug": "meybod"
+      },
+      {
+        "name": "طبس",
+        "latitude": "33.370",
+        "longitude": "56.540",
+        "slug": "tabas"
+      },
+      {
+        "name": "بافق",
+        "latitude": "31.360",
+        "longitude": "55.240",
+        "slug": "bafgh"
+      },
+      {
+        "name": "مهريز",
+        "latitude": "31.359",
+        "longitude": "54.2520",
+        "slug": "mehriz"
+      },
+      {
+        "name": "اشكذر",
+        "latitude": "31.5938",
+        "longitude": "54.1220",
+        "slug": "ashkezar"
+      },
+      {
+        "name": "هرات",
+        "latitude": "30.40",
+        "longitude": "54.220",
+        "slug": "harat"
+      },
+      {
+        "name": "خضرآباد",
+        "latitude": "53.953",
+        "longitude": "31.866",
+        "slug": "khezrabad"
+      },
+      {
+        "name": "زارچ",
+        "latitude": "54.26",
+        "longitude": "31.979",
+        "slug": "zarch"
+      }
+    ],
+    "slug": "yazd"
+  }
+]
